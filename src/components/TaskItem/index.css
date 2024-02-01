@@ -1,0 +1,30 @@
+.task-item {
+  background-color: #1a171d;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 50px;
+  padding-right: 50px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.task-name {
+  font-size: 17px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.task-tag-btn {
+  font-family: 'Roboto';
+  background-color: #f3aa4e;
+  border: none;
+  font-size: 14px;
+  font-weight: 500;
+  color: #131213;
+  width: 90px;
+  height: 35px;
+  border-radius: 15px;
+}

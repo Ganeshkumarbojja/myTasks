@@ -1,0 +1,19 @@
+.tag-item {
+  margin-right: 10px;
+}
+
+.tag-btn {
+  background-color: transparent;
+  border-radius: 15px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 14px;
+  min-width: 100px;
+  cursor: pointer;
+  border: solid 1px #f3aa4e;
+  height: 35px;
+}
+
+.active-tag-btn {
+  background-color: #f3aa4e;
+}
